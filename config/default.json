@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "denis",
+  "mongoUri": "mongodb+srv://fixprogram:HbmoehZp4@cluster0.7w0vb.mongodb.net/app?retryWrites=true&w=majority"
+}
